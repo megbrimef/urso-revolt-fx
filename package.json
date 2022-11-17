@@ -1,0 +1,22 @@
+{
+  "name": "@urso/revolt-fx",
+  "version": "0.1.1",
+  "description": "Particle and Effect System for Urso.js",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "author": "Megbrimef",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jszip": "^3.4.1",
+    "@types/node": "^14.0.13",
+    "grunt": "^1.1.0",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-ts": "^6.0.0-beta.22",
+    "typescript": "^3.9.5"
+  }
+}
